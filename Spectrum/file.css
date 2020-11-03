@@ -1,0 +1,33 @@
+h2{
+  font-family: 'Sriracha', cursive;
+  text-align: center;
+}
+
+td{
+  background-color: black;
+  height: 300px;
+  width: 150px;
+}
+
+.asdf{
+  margin: auto;
+}
+#green{
+  background-color: #2a9d8f;
+}
+
+#yellow{
+  background-color: #e9c46a;
+}
+
+#orange{
+  background-color: #f4a261;
+}
+
+#red{
+  background-color: #e76f51;
+}
+
+#blue{
+  background-color: #355070;
+}
