@@ -1,0 +1,41 @@
+body{
+  background-color: rgb(109, 215, 247);
+}
+
+h1{
+  border: thick solid black;
+}
+
+.first{
+  background-color: rgb(247, 207, 121);
+}
+
+h3{
+  color: rgb(194, 107, 242);
+}
+
+#abc{
+  color: rgb(194, 107, 242);
+  text-decoration: overline;
+}
+
+#email{
+  border-color: red;
+}
+
+#ps{
+  border-color: red;
+}
+
+#sb{
+  border-color: red;
+}
+
+#jklm{
+  background-color: rgb(247, 207, 121);
+}
+
+.asdf{
+  background-color: blue;
+  border: 4px dashed yellow;
+}
